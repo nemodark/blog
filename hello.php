@@ -8,5 +8,10 @@
 </head>
 <body>
     <h1>Goodbye</h1>
+    <div class="container">
+        <div class="col">
+            <p>Hello</p>
+        </div>
+    </div>
 </body>
 </html>
