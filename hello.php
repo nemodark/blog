@@ -12,10 +12,5 @@
     <div>World</div>
     <div>Hello</div>
     <div>Hello</div>
-    <div class="container">
-        <div class="col">
-            <p>Hello</p>
-        </div>
-    </div>
 </body>
 </html>
