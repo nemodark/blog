@@ -17,5 +17,6 @@
             <p>Hello</p>
         </div>
     </div>
+    <p>This is a test blog only.</p>
 </body>
 </html>
